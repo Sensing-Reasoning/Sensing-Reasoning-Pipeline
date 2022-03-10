@@ -1,0 +1,14 @@
+'''
+0: stop
+1: priority road
+2: yield
+3: construction area
+4: keep right
+5: turn left ahead
+6: do not enter
+7: no vehicles
+8: speed limit 50
+9: end of previous limitation
+10: speed limit 20
+11: speed limit 120
+'''
