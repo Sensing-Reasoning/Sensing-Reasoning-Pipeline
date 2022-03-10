@@ -1,0 +1,1 @@
+epoch	time	lr	train loss	test loss	train acc(multi)	test acc(multi)
