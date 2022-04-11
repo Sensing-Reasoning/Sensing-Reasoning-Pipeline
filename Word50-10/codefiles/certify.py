@@ -76,8 +76,8 @@ def recursion(cur, J1, J2, S1, S2):
 	sa, sb = 0, 0
 	for i in range(len(related_worlds[curpos])):
 		wid = related_worlds[curpos][i]
-		sa += np.exp(world_weight_a[wid] - interface_L[curpos]) * (np.exp(interface_U[curpos] - 1))
-		sb += np.exp(world_weight_b[wid] - interface_U[curpos]) * (np.exp(interface_L[curpos] - 1))
+		sa += np.exp(world_weight_a[wid] - interface_L[curpos]) * (np.exp(interface_U[curpos]) - 1)
+		sb += np.exp(world_weight_b[wid] - interface_U[curpos]) * (np.exp(interface_L[curpos]) - 1)
 		world_weight_a[wid] += interface_U[curpos] - interface_L[curpos]
 		world_weight_b[wid] += interface_L[curpos] - interface_U[curpos]
 	
