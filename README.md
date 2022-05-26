@@ -15,3 +15,5 @@ In specific:
 + The code for the experiment Image Classification on Word50 Dataset is contained in Word50-10.
 
 + The code for the experiment Image Classification on MNIST Dataset with Constructed Knowledge Rules is contained in MNIST.
+
+We have detailed README files for guiding you how to run our code under each dataset subfolder. 
