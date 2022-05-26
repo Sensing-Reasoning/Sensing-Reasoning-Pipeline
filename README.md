@@ -2,7 +2,7 @@
 
 The code here is implemented for the paper *"Improving Certified Robustness via Statistical Learning with Logical Reasoning"*.
 
-Each folder catains one corresponding experiment shown in the paper.
+Each folder contains one corresponding experiment shown in the paper.
 
 In specific:
 
