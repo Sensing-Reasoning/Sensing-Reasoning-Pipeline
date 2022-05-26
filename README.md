@@ -1,4 +1,4 @@
-# Sensing-Reasoning-Pipeline
+## Improving Certified Robustness via Statistical Learning with Logical Reasoning
 
 The code here is implemented for the paper *"Improving Certified Robustness via Statistical Learning with Logical Reasoning"*.
 
